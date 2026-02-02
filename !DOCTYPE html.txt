@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Birthday ❤️</title>
+</head>
+<body>
+
+<h1>🎉 Happy Birthday Anushkaa🎉</h1>
+<p>Wish you lots of happiness 💖</p>
+
+<img src="img1.jpg" width="200">
+<img src="img2.jpg" width="200">
+<img src="img3.jpg" width="200">
+<img src="img4.jpg" width="200">
+<img src="img5.jpg" width="200">
+<img src="img6.jpg" width="200">
+
+
+</body>
+</html>
